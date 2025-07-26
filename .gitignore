@@ -1,0 +1,9 @@
+# Folders
+__pycache__/
+.venv/
+
+# Files
+*.csv
+*.pdf
+*.pyc
+*.vscode
