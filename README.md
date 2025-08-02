@@ -1,8 +1,7 @@
 # Causal Inference in Clinical Trial
 
 **Author**: Yotam Dery  
-**Date**: July 27, 2025  
-**Assignment Provider**: PhaseV Trials Inc.
+**Date**: August 02, 2025  
 
 ---
 
@@ -91,12 +90,6 @@ Where:
 ## 🖥️ Files
 
 - `main.ipynb` — Full notebook with code, visualizations, and SHAP analysis
-- `PhaseV_Causal_Inference_Deck_Updated.pptx` — Slide deck for presentation
 - `simulated_data.csv` — Input dataset (assumed to be provided)
 
 ---
-
-## 📬 Contact
-
-For any follow-up or explanation, please reach out via GitHub or LinkedIn.
-
